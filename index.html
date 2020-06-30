@@ -14,9 +14,23 @@
 			.dos {
 				display: flex;
 			}
+			img#resp {
+				display: none;
+			}
+			@media screen and (max-width: 360px) {
+				img#resp {
+					display: block;
+				}
+				img {
+					display: none;
+				}
+			}
 		</style>
 	</head>
 	<body>
+		<div>
+			<img src="canvas.JPG" id="resp" width="100%" alt="" />
+		</div>
 		<div>
 			<img src="StackJs.JPG" width="100%" alt="" />
 		</div>
