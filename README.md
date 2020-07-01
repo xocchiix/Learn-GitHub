@@ -1,2 +1,3 @@
 # Learn-GitHub
-Primeros pasos con GitHub
+Primeros pasos con GitHub by @xocchiix
+
